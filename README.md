@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **an.bulchuk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EsRujICoBI7bObHGxJlwCjrywNXp_pEz/view?usp=sharing](https://drive.google.com/file/d/1EsRujICoBI7bObHGxJlwCjrywNXp_pEz/view?usp=sharing)
+- 📄 Know about my experiences [look at my resume](https://drive.google.com/file/d/1EsRujICoBI7bObHGxJlwCjrywNXp_pEz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
