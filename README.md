@@ -1,6 +1,3 @@
-<!-- omit in toc -->
-#bulchuk/README.md
-
 <div align="center">
 <img align="center" width="100%" src="https://imageup.ru/img236/4474704/choong-deng-xiang-wxqm_ntk0u-unsplash.jpg">
 </div>
