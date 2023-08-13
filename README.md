@@ -1,21 +1,25 @@
 <div align="center">
-<img align="center" width="40%" src="https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg">
+<img align="center" width="100%" src="https://imageup.ru/img236/4474704/choong-deng-xiang-wxqm_ntk0u-unsplash.jpg">
 </div>
 
-<h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">A budding data analyst and upcoming digital nomad</h3>
+<h1 align="center">Hi, I'm Anastasia 👋🏼👩🏽‍💻 </h1>
+<h3 align="center">A budding data analyst from Russia 🪆 and upcoming digital nomad 🗺 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulchuk&label=Profile%20views&color=0e75b6&style=flat" alt="bulchuk" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 💻 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
 
-- 📫 How to reach me **an.bulchuk@gmail.com**
+- 📲 How to reach me: **an.bulchuk@gmail.com** & [**telegram**](https://t.me/abulchuk)
 
-- 📄 Know about my experiences [look at my resume](https://drive.google.com/file/d/1EsRujICoBI7bObHGxJlwCjrywNXp_pEz/view?usp=sharing)
+- 📄 Know about my experiences [**from my resume**](https://drive.google.com/file/d/1EsRujICoBI7bObHGxJlwCjrywNXp_pEz/view?usp=sharing)
+
+- 🧘🏽‍♀ My hobby: **sport**, **languages** and **cooking** 
+
+- 😍 My motto **"Life is journey!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
