@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
 
-- 🧘🏽‍♀ My hobby: **sport**, **languages** and **cooking** 
+- 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cooking** 
 
 - 😍 My motto **"Life is journey!"**
 
