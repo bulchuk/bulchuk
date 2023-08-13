@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
 
-- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/1e81idvnnyvxvOwx80y8oAQ2ajq823zqw/view?usp=sharing)**
+- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/1vrnCkt_oEQELiNXjZE6VCv7aoQjs9Rw8/view?usp=sharing)**
 
 - 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cooking** 
 
