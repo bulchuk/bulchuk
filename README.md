@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
 
-- 📲 How to reach me: **an.bulchuk@gmail.com**
-
 - 🧘🏽‍♀ My hobby: **sport**, **languages** and **cooking** 
 
 - 😍 My motto **"Life is journey!"**
