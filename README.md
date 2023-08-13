@@ -15,8 +15,6 @@
 
 - 📲 How to reach me: **an.bulchuk@gmail.com** & [**telegram**](https://t.me/abulchuk)
 
-- 📄 Know about my experiences [**from my resume**](https://drive.google.com/file/d/1EsRujICoBI7bObHGxJlwCjrywNXp_pEz/view?usp=sharing)
-
 - 🧘🏽‍♀ My hobby: **sport**, **languages** and **cooking** 
 
 - 😍 My motto **"Life is journey!"**
