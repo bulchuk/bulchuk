@@ -1,3 +1,7 @@
+<div align="center">
+<img align="center" width="40%" src="https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg">
+</div>
+
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
 <h3 align="center">A budding data analyst and upcoming digital nomad</h3>
 
@@ -15,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/anastasiya-bulchuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anastasiya-bulchuk/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anastasiya-bulchuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anastasiya-bulchuk/" height="30" width="40" /></a>
 <a href="https://instagram.com/bulchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bulchuk" height="30" width="40" /></a>
 </p>
 
