@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulchuk&label=Profile%20views&color=0e75b6&style=flat" alt="bulchuk" /> </p>
 
-- 💻 I’m currently learning **Machine Learning**
+- 💻 I’m currently learning **Machine Learning & NLP**
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
 
