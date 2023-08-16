@@ -12,7 +12,7 @@
 
 - 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/1OZoJiSytuDNWQahC_c59LiuaHeLARArx/view?usp=sharing)**
 
-- 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cooking** 
+- 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cultures** 
 
 - 😍 My motto **"Life is journey!"**
 
