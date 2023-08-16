@@ -1,6 +1,3 @@
-<div align="center">
-<img align="center" width="100%" src="https://imageup.ru/img236/4474704/choong-deng-xiang-wxqm_ntk0u-unsplash.jpg">
-</div>
 
 <h1 align="center">Hi, I'm Anastasia 👋🏼👩🏽‍💻 </h1>
 <h3 align="center">A budding data analyst from Russia 🪆 and upcoming digital nomad 🗺 </h3>
