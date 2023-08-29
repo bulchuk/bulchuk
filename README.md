@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **data analysis, a/b-test, data visualisation**
 
-- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/1OZoJiSytuDNWQahC_c59LiuaHeLARArx/view?usp=sharing)**
+- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/14owMDNrDOkuetv1wrm8VpHf9jeO7NYha/view?usp=sharing)**
 
 - 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cultures** 
 
