@@ -31,7 +31,7 @@
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>  <a href="https://plotly.com/graphing-libraries/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40"/> </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="110" height="40"/> </a>
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/tableau-software.png" alt="tableau" width="40" height="40"/> </a> <a href="https://cloud.yandex.ru/services/datalens" target="_blank" rel="noreferrer"> <img src="https://yadashboard.com/wp-content/uploads/2023/06/yandex-datalens-3.jpg" alt="datalens" width="110" height="40"/> </a> </p> <tab></tab><tab></tab>
 
-<h3 align="left">My freelance projects (https://github.com/bulchuk/freelance_projects.git):</h3>
+[h3 align="left">My freelance projects](https://github.com/bulchuk/freelance_projects.git)
 
 | Project | Description | Libraries&Skills | Project Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
