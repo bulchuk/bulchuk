@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **data analysis & data visualisation**
 
-- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/14owMDNrDOkuetv1wrm8VpHf9jeO7NYha/view?usp=sharing)**
+- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/1mfChIZx8o1ffw1H4zOKqL0DKKIdn7ik7/view?usp=sharing)**
 
 - 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cultures** 
 
