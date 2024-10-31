@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Anastasia 👋🏼👩🏽‍💻 </h1>
-<h3 align="center">A budding data analyst from Russia 🪆 </h3>
+<h3 align="center">Data analyst from Russia 🪆 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
