@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulchuk&label=Profile%20views&color=0e75b6&style=flat" alt="bulchuk" /> </p>
 
-- 👩🏽‍💻 Specialist in Search Engine Results Optimization and Analyst
+- 👩🏽‍💻 Data Analyst and Specialist in Search Engine Results Optimization
 
 - 💬 Ask me about **data analysis & data visualisation**
 
-- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/1mfChIZx8o1ffw1H4zOKqL0DKKIdn7ik7/view?usp=sharing)**
+- 📄 Know more about my experiences **[from my resume](https://drive.google.com/file/d/19NURrfS31XyUPDFmwdzRlSoF7gHvFBN_/view?usp=sharing)**
 
 - 🧘🏽‍♀ My hobby: **sport**, **languages** 🇩🇪🇪🇸🇮🇹 and **cultures** 
 
